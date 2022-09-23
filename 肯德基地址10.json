@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 523
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 91,
+      "storeName": "数码新城",
+      "addressDetail": "龙岗中心区黄阁北路445号（天安数码新城1期1号楼）",
+      "pro": "Wi-Fi,Wi-Fi,点唱机,点唱机,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "深圳市"
+    },
+    {
+      "rownum": 92,
+      "storeName": "书香门第",
+      "addressDetail": "民治街道金龙路与梅陇路交汇处书香门第上河坊",
+      "pro": "Wi-Fi,Wi-Fi,点唱机,点唱机,店内参观,店内参观,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "深圳市"
+    },
+    {
+      "rownum": 93,
+      "storeName": "凤凰DT",
+      "addressDetail": "平湖街道平湖凤凰新村商业广场",
+      "pro": "24小时,24小时,Wi-Fi,Wi-Fi,店内参观,店内参观,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "深圳市"
+    },
+    {
+      "rownum": 94,
+      "storeName": "坪山友谊",
+      "addressDetail": "坪山大道（原深汕路）246号坪山投资大厦首二层",
+      "pro": "24小时,24小时,Wi-Fi,Wi-Fi,点唱机,点唱机,店内参观,店内参观,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "深圳市"
+    },
+    {
+      "rownum": 95,
+      "storeName": "益华DT",
+      "addressDetail": "沙井街道宝安大道与北环路交汇处益华电子广场",
+      "pro": "Wi-Fi,Wi-Fi,点唱机,点唱机,店内参观,店内参观,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "深圳市"
+    },
+    {
+      "rownum": 96,
+      "storeName": "固戍餐厅",
+      "addressDetail": "西乡街道固戍社区固戍一路281号1楼A1铺",
+      "pro": "24小时,24小时,Wi-Fi,Wi-Fi,点唱机,点唱机,店内参观,店内参观,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "深圳市"
+    },
+    {
+      "rownum": 97,
+      "storeName": "民乐餐厅",
+      "addressDetail": "民治街道民乐村民乐综合场首层",
+      "pro": "24小时,24小时,Wi-Fi,Wi-Fi,点唱机,点唱机,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "深圳市"
+    },
+    {
+      "rownum": 98,
+      "storeName": "华强东肯德基",
+      "addressDetail": "燕南路88#中泰燕南名庭2期1-2层",
+      "pro": "24小时,24小时,Wi-Fi,Wi-Fi,点唱机,点唱机,店内参观,店内参观,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "深圳市"
+    },
+    {
+      "rownum": 99,
+      "storeName": "竹子林餐厅",
+      "addressDetail": "深南西路竹子林益华综合楼B栋西北侧",
+      "pro": "Wi-Fi,Wi-Fi,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "深圳市"
+    },
+    {
+      "rownum": 100,
+      "storeName": "蔚蓝海岸餐厅",
+      "addressDetail": "后海大道蔚蓝海岸商住楼1楼",
+      "pro": "24小时,24小时,Wi-Fi,Wi-Fi,店内参观,店内参观,礼品卡",
+      "provinceName": "广东省",
+      "cityName": "深圳市"
+    }
+  ]
+}
