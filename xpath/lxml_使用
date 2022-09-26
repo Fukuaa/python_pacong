@@ -1,5 +1,5 @@
 from lxml import etree
 
 tree = etree.parse("text.html")
-p_alist = tree.xpath("//body/p/a/text()")
+p_alist = tree.xpath("//p/text()")[2]
 print(p_alist)
