@@ -5,7 +5,7 @@ data = {
     "wd": "ip",
 }
 
-#url = "https://www.baidu.com/s?" + urllib.parse.urlencode(data)
+# url = "https://www.baidu.com/s?" + urllib.parse.urlencode(data)
 
 url = "https://2022.ip138.com/"
 
