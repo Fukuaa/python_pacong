@@ -7,7 +7,8 @@ data = {
 url = "https://www.baidu.com/s?" + urllib.parse.urlencode(data)
 #url = "https://2022.ip138.com/"
 headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 "
+                  "Safari/537.36 "
 }
 
 # 因为参数顺序问题不能直接写url，headers，中间还有data，所以用关键字传参
