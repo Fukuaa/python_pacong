@@ -1,6 +1,5 @@
 import urllib.request
 import urllib.parse
-
 data = {
     "wd": "ip",
 }
@@ -28,5 +27,5 @@ response = opener.open(request)
 content = response.read().decode("utf-8")
 
 print(content)
-with open("text.html", "w", encoding="utf-8") as fp:
+with open("../xpath/text.html", "w", encoding="utf-8") as fp:
     fp.write(content)
