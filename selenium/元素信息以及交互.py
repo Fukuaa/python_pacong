@@ -15,7 +15,7 @@ time.sleep(2)
 js_bottom = 'document.documentElement.scrollTop=10000'
 browser.execute_script(js_bottom)
 time.sleep(2)
-next = browser.find_element(by=By.XPATH,value='//a[@class="n"]')
+next = browser.find_element(by=By.XPATH, value='//a[@class="n"]')
 next.click()
 time.sleep(2)
 browser.back()
