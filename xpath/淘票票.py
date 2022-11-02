@@ -48,3 +48,9 @@ content = response.read().decode("utf-8")
 content = content.split("(")[1].split(")")[0]
 with open("淘票票.json", "w", encoding="utf-8") as fp:
     fp.write(content)
+import json
+import jsonpath
+
+obj = json.load(open("淘票票.json", "r", encoding="utf-8"))
+city_list = jsonpath.jsonpath(obj, "$..regionName")
+print(city_list)
